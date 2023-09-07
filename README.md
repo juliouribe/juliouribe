@@ -1,6 +1,8 @@
 ### Hello 👋, I'm Julio
 
-I'm a first generation Mexican-American trying to make it in the tech world. I'm based in San Francisco and I have been working in the self driving industry for 8 years. I love problem solving and building things. My skills are in web development. I have experience building full stack projects with Javascript, React, Ruby, Ruby on Rails, Python, Django, and PostgreSQL.
+I'm a first generation Mexican-American trying to make it in the tech world. I'm based in San Francisco and I have been working in the self driving industry for 8 years. I love problem solving and building things. 
+
+My skills are in web development. I have experience building full stack projects with Javascript, React, Ruby, Ruby on Rails, Python, Django, and PostgreSQL.
 
 In my spare time I'm passionate about Formula 1 🏎 and old movies 🎥 🍿. My favorite F1 team is Ferrari and my favorite movies are Mulholland Drive and 2001 Space Odyssey.
 
