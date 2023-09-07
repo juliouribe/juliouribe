@@ -1,4 +1,4 @@
-### Hi there 👋
+### Julio Uribe - Software Developer with 8 years in the self driving industry
 
 <!--
 **juliouribe/juliouribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
