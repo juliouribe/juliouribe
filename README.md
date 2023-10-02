@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Julio
 
-Hello, I'm a first generation Mexican-American software engineer based in San Francisco, CA. I've been working in the self driving industry since 2015 first working in operations and most recently as a software engineer.
+I'm a first generation Mexican-American software engineer based in San Francisco, CA. I've been working in the self driving industry since 2015 first working in operations and most recently as a software engineer.
 
 I was first interested in coding back in 2013 while I was in my junior year of college at UC Santa Cruz. I was a psychology major taking a class called, "Programming for the Cognitive Sciences". We were working on a driving simulator and needed to slow down the simulator to resemble a human driver by adding cognitive functions such as change detection, color recognition, and sending muscular neural signals. I was blown away that we could simulate psychology experiments and also automate the reporting. I wanted to switch to being a computer science major but couldn't due to lack of financial support.
 
