@@ -15,7 +15,7 @@
 
 ---
 
-<h1 align='center'>Hello, I'm Julio! 👋</h1>
+<h1>Hello, I'm Julio! 👋</h1>
 
 I'm a first generation Mexican-American 🇲🇽 🇺🇸 software engineer based in San Francisco, CA. I've been working in the self driving industry since 2015 first working in operations and most recently as a software engineer.
 
@@ -26,6 +26,8 @@ Instead I jumped into the job market when I graduated. I started working in oper
 Most recently I completed a full stack web dev bootcamp to supplement my skills as a software engineer. I graduated from App Academy's 16 week full stack in person bootcamp. I can now build projects using Javascript, React with Redux, Ruby, and Ruby on Rails. With these new skills and my previous experience using Python, Django, and working with cloud providers like Google Cloud Platform I feel like a strong candidate for most web dev roles.
 
 Feel free to reach out! I'm always happy to talk about web development. In my free time I follow Formula 1 🏎 and enjoy watching old movies 🎥 🍿. I root for Ferrari in F1 and Stanley Kubrick is my favorite director.
+
+Checkout my [portfolio website](https://juliouribe.netlify.app/) as well as my projects here on github.
 
 ---
 
