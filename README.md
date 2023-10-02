@@ -10,11 +10,6 @@ Most recently I completed a full stack web dev bootcamp to supplement my skills 
 
 Feel free to reach out! I'm always happy to talk about web development. In my free time I follow Formula 1 🏎 and enjoy watching old movies 🎥 🍿. I root for Ferrari in F1 and Stanley Kubrick is my favorite director.
 
-You can reach me on here or over email:
-uribejulioc@gmail.com
-
-https://github.com/juliouribe
-
 <!--
 **juliouribe/juliouribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
